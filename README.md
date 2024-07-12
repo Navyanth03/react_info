@@ -1,9 +1,13 @@
-# React + Vite
+## React Info (Static) page created using React
+- This a basic static website made in reactsjs, which tells fun facts about react.
+- This helps beginner understand Components, JSX and React Syntax.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Used: HTML, CSS, React.
 
-Currently, two official plugins are available:
+## Run commands
+- npm install
+- npm run dev
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# react_info" 
+Image:
+
+![Image which has func facts about react in it](./website.png)
